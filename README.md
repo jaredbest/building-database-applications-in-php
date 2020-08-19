@@ -1,1 +1,1 @@
-# building-database-applications-in-php
+# Building Database Applications in PHP
